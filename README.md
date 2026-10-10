@@ -54,6 +54,6 @@ This is an educational simulation that uses predefined routes and traffic condit
 
 ---
 
-**Author:** Your Name
+**Author:** Prithika Reddy
 
-*Built as a Python learning project.*
+*Built as a Python project.*
