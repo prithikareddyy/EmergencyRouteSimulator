@@ -5,6 +5,9 @@ A beginner Python project that simulates emergency vehicle route selection and h
 ## 📌 Project Overview
 
 In an emergency, choosing a suitable route can save valuable time. This project demonstrates a simple, menu-driven simulation in which users can view available routes, select a route, handle blocked roads, and compare estimated travel times.
+## 📸 Project Screenshot
+
+![Emergency Route Simulator](emergency-route-simulator.png)
 
 ## ✨ Features
 
